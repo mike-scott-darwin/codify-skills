@@ -8,6 +8,9 @@ These skills are operated by Codify partners on behalf of their clients. Each
 client also gets their own committed copy inside their vault — this repo is the
 **partner's global toolkit** and the upstream that vaults refresh from.
 
+> 📘 **New here? Start with [GETTING-STARTED.md](GETTING-STARTED.md)** — login →
+> install → run a client → verify, in plain language.
+
 ---
 
 ## Install (one time)
